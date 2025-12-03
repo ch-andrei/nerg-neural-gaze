@@ -1,0 +1,15 @@
+__pycache__/
+build/
+*.egg-info/
+*.so
+
+.idea/*
+.venv/*
+
+tmp*
+results/
+trial*/
+.vs/
+
+data/
+data_gaze/scripts/

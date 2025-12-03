@@ -1,0 +1,7 @@
+[submodule "ffmlp/dependencies/cutlass"]
+	path = ffmlp/dependencies/cutlass
+	url = https://github.com/NVIDIA/cutlass.git
+
+[submodule "spherical_kde"]
+	path = spherical_kde
+	url = https://github.com/ch-andrei/spherical_kde
